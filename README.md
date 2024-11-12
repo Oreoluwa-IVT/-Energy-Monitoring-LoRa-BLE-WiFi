@@ -1,8 +1,7 @@
 # Energy Monitoring with LoRaWAN
 > GFM  Markdown and WYSIWYG Editor - Productive and Extensible
 
-<img src="https://user-images.githubusercontent.com/37766175/121809054-446bac80-cc96-11eb-9139-08c6d9ad2d88.png" />
-![3D Front Side View](https://github.com/user-attachments/assets/bc06e4be-6b20-4bb6-ae3c-cdbd370ff7a6)
+<img src="https://github.com/user-attachments/assets/bc06e4be-6b20-4bb6-ae3c-cdbd370ff7a6" />
 
 
 ## 🚩 Table of Contents
