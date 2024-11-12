@@ -35,8 +35,14 @@ This images is compressed. If you struggle with seeing certain details you can d
 ## 🎨 PCB Design Specifications
 | Category | Description |
 | --- | --- |
-| [`@toast-ui/react-editor`](https://github.com/nhn/tui.editor/tree/master/apps/react-editor) | [React](https://reactjs.org/) wrapper component |
-| [`@toast-ui/vue-editor`](https://github.com/nhn/tui.editor/tree/master/apps/vue-editor) | [Vue](https://vuejs.org/) wrapper component |
+| Board Thinkess | 1.612mm |
+| Dimension | 40mm x 80mm |
+| Number of Layers |  2  |
+| Soldermask | Green |
+| Silkscreen | White |
+| Impedance Profile (Antenna) | 50Ω |
+| Impedance Profile (USB) | 90Ω |
+
 
 * [Viewer](https://github.com/nhn/tui.editor/tree/master/docs/en/viewer.md) : Supports a mode to display only markdown data without an editing area.
 * [Internationalization (i18n)](https://github.com/nhn/tui.editor/tree/master/docs/en/i18n.md) : Supports English, Dutch, Korean, Japanese, Chinese, Spanish, German, Russian, French, Ukrainian, Turkish, Finnish, Czech, Arabic, Polish, Galician, Swedish, Italian, Norwegian, Croatian + language and you can extend.
