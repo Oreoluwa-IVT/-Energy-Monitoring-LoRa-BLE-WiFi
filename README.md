@@ -2,8 +2,6 @@
 > The first iteration of a small, efficient, powerful monitoring package.
 <img src="https://github.com/user-attachments/assets/55031c5b-47f4-44da-be43-cbea9d6fc508" />
 
-
-
 ## 🚩 Table of Contents
 
 - [Product Description](#-product-description)
@@ -19,9 +17,7 @@
 
 
 ##  Product Description 
-| Name | Description |
-| --- | --- |
-| [`@toast-ui/editor`](https://github.com/nhn/tui.editor/tree/master/apps/editor) | Plain JavaScript component |
+Today *CommonMark* is the de-facto *Markdown* standard. *GFM (GitHub Flavored Markdown)* is another popular specification based on *CommonMark* - maintained by *GitHub*, which is the *Markdown* mostly used. TOAST UI Editor follows both [*CommonMark*](http://commonmark.org/) and [*GFM*](https://github.github.com/gfm/) specifications. Write documents with ease using productive tools provided by TOAST UI Editor and you can easily open the produced document wherever the specifications are supported.
 
 ### TOAST UI Editor's Wrappers
 
@@ -89,6 +85,10 @@ You can merge columns of the table header and body area.
 * [**`uml`**](https://github.com/nhn/tui.editor/tree/master/plugins/uml) : A code block marked as an 'uml' will render [UML diagrams](http://plantuml.com/screenshot).
 
 ## 🎨 PCB Design Specifications
+| Name | Description |
+| --- | --- |
+| [`@toast-ui/editor`](https://github.com/nhn/tui.editor/tree/master/apps/editor) | Plain JavaScript component |
+
 
 * [Viewer](https://github.com/nhn/tui.editor/tree/master/docs/en/viewer.md) : Supports a mode to display only markdown data without an editing area.
 * [Internationalization (i18n)](https://github.com/nhn/tui.editor/tree/master/docs/en/i18n.md) : Supports English, Dutch, Korean, Japanese, Chinese, Spanish, German, Russian, French, Ukrainian, Turkish, Finnish, Czech, Arabic, Polish, Galician, Swedish, Italian, Norwegian, Croatian + language and you can extend.
