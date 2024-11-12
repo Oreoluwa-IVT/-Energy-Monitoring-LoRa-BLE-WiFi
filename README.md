@@ -6,7 +6,7 @@
 
 ## 🚩 Table of Contents
 
-- [Description](#-packages)
+- [Product Description](#-packages)
 - [Schematics](#-why-toast-ui-editor)
 - [PCB Design Specifications](#-features)
 - [Board Presentation](#-examples)
@@ -20,7 +20,7 @@
 
 ## 📦 Packages
 
-### TOAST UI Editor
+### Product Description 
 
 | Name | Description |
 | --- | --- |
