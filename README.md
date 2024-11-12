@@ -18,7 +18,7 @@
 - [License](#-license)
 
 
-## Product Description 
+##  Product Description 
 | Name | Description |
 | --- | --- |
 | [`@toast-ui/editor`](https://github.com/nhn/tui.editor/tree/master/apps/editor) | Plain JavaScript component |
