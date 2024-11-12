@@ -50,22 +50,8 @@ This images is compressed. If you struggle with seeing certain details you can d
 | Minimum Hole Size  | 0.2mm|
 | Maximum Hole Size | 0.2mm |
 
-
-* [Viewer](https://github.com/nhn/tui.editor/tree/master/docs/en/viewer.md) : Supports a mode to display only markdown data without an editing area.
-* [Internationalization (i18n)](https://github.com/nhn/tui.editor/tree/master/docs/en/i18n.md) : Supports English, Dutch, Korean, Japanese, Chinese, Spanish, German, Russian, French, Ukrainian, Turkish, Finnish, Czech, Arabic, Polish, Galician, Swedish, Italian, Norwegian, Croatian + language and you can extend.
-* [Widget](https://github.com/nhn/tui.editor/tree/master/docs/en/widget.md) : This feature allows you to configure the rules that replaces the string matching to a specific `RegExp` with the widget node.
-* [Custom Block](https://github.com/nhn/tui.editor/tree/master/docs/en/custom-block.md) : Nodes not supported by Markdown can be defined through custom block. You can display the node what you want through writing the parsing logic with custom block.
-
 ## 🐾 Board Presentation 
 
-* [Basic](https://nhn.github.io/tui.editor/latest/tutorial-example01-editor-basic)
-* [Viewer](https://nhn.github.io/tui.editor/latest/tutorial-example04-viewer)
-* [Using All Plugins](https://nhn.github.io/tui.editor/latest/tutorial-example12-editor-with-all-plugins)
-* [Creating the User's Plugin](https://nhn.github.io/tui.editor/latest/tutorial-example13-creating-plugin)
-* [Customizing the Toobar Buttons](https://nhn.github.io/tui.editor/latest/tutorial-example15-customizing-toolbar-buttons)
-* [Internationalization (i18n)](https://nhn.github.io/tui.editor/latest/tutorial-example16-i18n)
-
-Here are more [examples](https://nhn.github.io/tui.editor/latest/tutorial-example01-editor-basic) and play with TOAST UI Editor!
 
 
 ## 🌏 Bill of Materials
@@ -76,44 +62,12 @@ Here are more [examples](https://nhn.github.io/tui.editor/latest/tutorial-exampl
 
 
 ## 🔧 Fabrication Files
+I you wish you print this board for yourself, you can navigate to the folder containing the gerber files for this project.
 
-TOAST UI products are open source, so you can create a pull request(PR) after you fix issues. Run npm scripts and develop yourself with the following process.
-
-### Setup
-
-Fork `main` branch into your personal repository. Clone it to local computer. Install node modules. Before starting development, you should check if there are any errors.
-
-```sh
-$ git clone https://github.com/{your-personal-repo}/tui.editor.git
-$ npm install
-$ npm run build toastmark
-$ npm run test editor
-```
-
-> TOAST UI Editor uses [npm workspace](https://docs.npmjs.com/cli/v7/using-npm/workspaces/), so you need to set the environment based on [npm7](https://github.blog/2021-02-02-npm-7-is-now-generally-available/). If subversion is used, dependencies must be installed by moving direct paths per package.
-
-### Develop
-
-You can see your code reflected as soon as you save the code by running a server. Don't miss adding test cases and then make green rights.
-
-#### Run snowpack-dev-server
-[snowpack](https://www.snowpack.dev/) allows you to run a development server without bundling.
+#### Altium 365 Project
 
 ``` sh
-$ npm run serve editor
-```
-
-#### Run webpack-dev-server
-If testing of legacy browsers is required, the development server can still be run using a [webpack](https://webpack.js.org/).
-
-``` sh
-$ npm run serve:ie editor
-```
-
-#### Run test
-
-``` sh
-$ npm test editor
+$ https://oreofeoluwa-ayoola.365.altium.com/designs/1BFC9E72-5E92-4F1D-BF10-B9AC457842F1
 ```
 
 ### Pull Request
