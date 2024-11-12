@@ -51,6 +51,8 @@ This images is compressed. If you struggle with seeing certain details you can d
 | Maximum Hole Size | 0.2mm |
 
 ## 🐾 Board Presentation 
+Below is the board in different views. To see areas of the board not shown below , please visit the Altium 365 project link. 
+<img src="https://github.com/user-attachments/assets/7185e227-41d2-4916-9e0d-90ed663ac18a" />
 
 
 
@@ -62,7 +64,7 @@ This images is compressed. If you struggle with seeing certain details you can d
 
 
 ## 🔧 Fabrication Files
-I you wish you print this board for yourself, you can navigate to the folder containing the gerber files for this project.
+If you wish you print this board for yourself, you can navigate to the folder containing the Gerber files for this project.
 
 #### Altium 365 Project
 
