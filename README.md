@@ -6,22 +6,19 @@
 
 ## 🚩 Table of Contents
 
-- [Product Description](#-packages)
+- [Product Description](#-product-description)
 - [Schematics](#-schematics)
-- [PCB Design Specifications](#-features)
-- [Board Presentation](#-examples)
-- [Bill of Materials](#-browser-support)
-- [Fabrication Files](#-pull-request-steps)
-- [Version History](#-contributing)
-- [Project File](#-toast-ui-family)
+- [PCB Design Specifications](#-pcb-design-specifications)
+- [Board Presentation](#-board-presentation)
+- [Bill of Materials](#-bill-of-materials)
+- [Fabrication Files](#-fabrication-files)
+- [Version History](#-version-history)
+- [Project File](#-project-file)
 - [Used By](#-used-by)
 - [License](#-license)
 
 
-## 📦 Packages
-
-### Product Description 
-
+## Product Description 
 | Name | Description |
 | --- | --- |
 | [`@toast-ui/editor`](https://github.com/nhn/tui.editor/tree/master/apps/editor) | Plain JavaScript component |
