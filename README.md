@@ -17,7 +17,7 @@
 
 
 ##  Project Description 
-The *energy monitoring* module shown above is an open-source project designed to help enthusiasts monitor energy consumed with the aid of current and voltage sensors. To help address the issue of unclear electric usage and tariffs, you can try exploring using this unit to wirelessly monitor how much energy you are consuming. To ensure easy access to the data acquired by the voltage and current sensors, two wireless communication modules were incoperated onboard. This includes a LoRa_E5 Module to initiate LoRaWAN Communication and a NINA module to provide access to data via WiFi or BLE.*Altium Designer* is the software used for this project. Find out more about [*Altium Designer*](http://commonmark.org/) using the link.
+The *energy monitoring* module shown above is an open-source project designed to help enthusiasts monitor energy consumed with the aid of current and voltage sensors. To help address the issue of unclear electric usage and tariffs, you can explore using this unit to wirelessly monitor energy consumption. To ensure easy access to the data acquired by the voltage and current sensors, two wireless communication modules were incorporated onboard. This includes a LoRa_E5 Module to initiate LoRaWAN Communication and a NINA module to provide access to data via WiFi or BLE.*Altium Designer* is the software used for this project. Find out more about [*Altium Designer*](http://commonmark.org/) using the link.
 
 ### TOAST UI Editor's Wrappers
 
