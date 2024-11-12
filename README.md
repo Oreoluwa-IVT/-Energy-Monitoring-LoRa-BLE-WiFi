@@ -6,7 +6,7 @@
 
 - [Project Description](#-project-description)
 - [Schematics](#-schematics)
-- [PCB Design Specifications](#-pcb-design-specifications)
+- [PCB Design Properties and Specifications](#-pcb-design-properties-and-specifications)
 - [Board Presentation](#-board-presentation)
 - [Bill of Materials](#-bill-of-materials)
 - [Fabrication Files](#-fabrication-files)
@@ -32,7 +32,7 @@ This images is compressed. If you struggle with seeing certain details you can d
 This images is compressed. If you struggle with seeing certain details you can download the schematics in the Project files section below. Thanks!!
 <img src="https://github.com/user-attachments/assets/e44891f0-4ea8-47d1-83c9-54377b72260e" />
 
-## 🎨 PCB Design Specifications
+## 🎨 PCB Design Properties and Specifications
 | Category | Description |
 | --- | --- |
 | Board Thinkess | 1.612mm |
@@ -40,6 +40,8 @@ This images is compressed. If you struggle with seeing certain details you can d
 | Number of Layers |  2  |
 | Soldermask | Green |
 | Silkscreen | White |
+| mounting Holes | 4 |
+| Edge Fillet Radius | 2mm |
 | Impedance Profile (Antenna) | 50Ω |
 | Impedance Profile (USB) | 90Ω |
 
