@@ -9,9 +9,8 @@
 - [PCB Design Properties and Specifications](#-pcb-design-properties-and-specifications)
 - [Board Presentation](#-board-presentation)
 - [Bill of Materials](#-bill-of-materials)
-- [Fabrication Files](#-fabrication-files)
 - [Version History](#-version-history)
-- [Project File](#-project-file)
+- [Download Project Files](#-download-project-files)
 - [Used By](#-used-by)
 - [License](#-license)
 
@@ -79,12 +78,7 @@ Below is the board in different views. To see areas of the board not shown below
 | 17     | Crystal             | Y1                         | 1        | FP-ABM8AIG-MFG                 | Abracon                | ABM8AIG-16.000MHZ-12-2Z-T3    | Volume Production            | 56AC7507                   |
 | 18     | Crystal             | Y2                         | 1        | FP-ABM7-MFG                    | Abracon                | ABM7-16.000MHZ-D2Y-T          | Unknown                      | 67P3843                    |
 
-
-
-
-## 🔧 Fabrication Files
-If you wish you print this board for yourself, you can navigate to the folder containing the Gerber files for this project.
-
+- 
 #### Altium 365 Project
 
 ``` sh
@@ -92,7 +86,7 @@ $ https://oreofeoluwa-ayoola.365.altium.com/designs/1BFC9E72-5E92-4F1D-BF10-B9AC
 ```
 
 ## 💬 Version History
-## 🍞 Download Project Files (Schematics and PCB)
+## 🍞 Download Project Files
 
 - [Schematics](https://github.com/nhn/tui.calendar)
 - [PCB Files](https://github.com/nhn/tui.chart)
