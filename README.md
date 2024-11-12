@@ -45,6 +45,10 @@ This images is compressed. If you struggle with seeing certain details you can d
 | Edge Fillet Radius | 2mm |
 | Impedance Profile (Antenna) | 50Ω |
 | Impedance Profile (USB) | 90Ω |
+| Minimum Trace Width  | 0.2mm|
+| Maximum Trace Width | 0.2mm |
+| Minimum Hole Size  | 0.2mm|
+| Maximum Hole Size | 0.2mm |
 
 
 * [Viewer](https://github.com/nhn/tui.editor/tree/master/docs/en/viewer.md) : Supports a mode to display only markdown data without an editing area.
