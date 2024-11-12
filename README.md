@@ -6,14 +6,14 @@
 
 ## 🚩 Table of Contents
 
-- [Packages](#-packages)
-- [Why TOAST UI Editor?](#-why-toast-ui-editor)
-- [Features](#-features)
-- [Examples](#-examples)
-- [Browser Support](#-browser-support)
-- [Pull Request Steps](#-pull-request-steps)
-- [Contributing](#-contributing)
-- [TOAST UI Family](#-toast-ui-family)
+- [Description](#-packages)
+- [Schematics](#-why-toast-ui-editor)
+- [PCB Design Specifications](#-features)
+- [Board Presentation](#-examples)
+- [Bill of Materials](#-browser-support)
+- [Fabrication Files](#-pull-request-steps)
+- [Version History](#-contributing)
+- [Project File](#-toast-ui-family)
 - [Used By](#-used-by)
 - [License](#-license)
 
