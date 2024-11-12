@@ -7,7 +7,7 @@
 ## 🚩 Table of Contents
 
 - [Product Description](#-packages)
-- [Schematics](#-why-toast-ui-editor)
+- [Schematics](#-schematics)
 - [PCB Design Specifications](#-features)
 - [Board Presentation](#-examples)
 - [Bill of Materials](#-browser-support)
