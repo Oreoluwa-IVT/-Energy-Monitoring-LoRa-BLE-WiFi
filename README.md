@@ -44,7 +44,7 @@
 | [`@toast-ui/editor-plugin-uml`](https://github.com/nhn/tui.editor/tree/master/plugins/uml) | Plugin to render UML |
 
 
-## 🤖 Why TOAST UI Editor?
+## 🤖 Schematics?
 
 TOAST UI Editor provides **Markdown mode** and **WYSIWYG mode**. Depending on the type of use you want like production of *Markdown* or maybe to just edit the *Markdown*. The TOAST UI Editor can be helpful for both the usage. It offers **Markdown mode** and **WYSIWYG mode**, which can be switched any point in time.
 
@@ -91,14 +91,14 @@ Using [TOAST UI ColorPicker](https://github.com/nhn/tui.color-picker), you can c
 You can merge columns of the table header and body area.
 * [**`uml`**](https://github.com/nhn/tui.editor/tree/master/plugins/uml) : A code block marked as an 'uml' will render [UML diagrams](http://plantuml.com/screenshot).
 
-## 🎨 Features
+## 🎨 PCB Design Specifications
 
 * [Viewer](https://github.com/nhn/tui.editor/tree/master/docs/en/viewer.md) : Supports a mode to display only markdown data without an editing area.
 * [Internationalization (i18n)](https://github.com/nhn/tui.editor/tree/master/docs/en/i18n.md) : Supports English, Dutch, Korean, Japanese, Chinese, Spanish, German, Russian, French, Ukrainian, Turkish, Finnish, Czech, Arabic, Polish, Galician, Swedish, Italian, Norwegian, Croatian + language and you can extend.
 * [Widget](https://github.com/nhn/tui.editor/tree/master/docs/en/widget.md) : This feature allows you to configure the rules that replaces the string matching to a specific `RegExp` with the widget node.
 * [Custom Block](https://github.com/nhn/tui.editor/tree/master/docs/en/custom-block.md) : Nodes not supported by Markdown can be defined through custom block. You can display the node what you want through writing the parsing logic with custom block.
 
-## 🐾 Examples
+## 🐾 Board Presentation 
 
 * [Basic](https://nhn.github.io/tui.editor/latest/tutorial-example01-editor-basic)
 * [Viewer](https://nhn.github.io/tui.editor/latest/tutorial-example04-viewer)
@@ -110,14 +110,14 @@ You can merge columns of the table header and body area.
 Here are more [examples](https://nhn.github.io/tui.editor/latest/tutorial-example01-editor-basic) and play with TOAST UI Editor!
 
 
-## 🌏 Browser Support
+## 🌏 Bill of Materials
 
 | <img src="https://user-images.githubusercontent.com/1215767/34348387-a2e64588-ea4d-11e7-8267-a43365103afe.png" alt="Chrome" width="16px" height="16px" /> Chrome | <img src="https://user-images.githubusercontent.com/1215767/34348590-250b3ca2-ea4f-11e7-9efb-da953359321f.png" alt="IE" width="16px" height="16px" /> Internet Explorer | <img src="https://user-images.githubusercontent.com/1215767/34348380-93e77ae8-ea4d-11e7-8696-9a989ddbbbf5.png" alt="Edge" width="16px" height="16px" /> Edge | <img src="https://user-images.githubusercontent.com/1215767/34348394-a981f892-ea4d-11e7-9156-d128d58386b9.png" alt="Safari" width="16px" height="16px" /> Safari | <img src="https://user-images.githubusercontent.com/1215767/34348383-9e7ed492-ea4d-11e7-910c-03b39d52f496.png" alt="Firefox" width="16px" height="16px" /> Firefox |
 | :---------: | :---------: | :---------: | :---------: | :---------: |
 | Yes | 11+ | Yes | Yes | Yes |
 
 
-## 🔧 Pull Request Steps
+## 🔧 Fabrication Files
 
 TOAST UI products are open source, so you can create a pull request(PR) after you fix issues. Run npm scripts and develop yourself with the following process.
 
@@ -164,7 +164,7 @@ Before uploading your PR, run test one last time to check if there are any error
 
 For more information on PR's steps, please see links in the Contributing section.
 
-## 💬 Contributing
+## 💬 Version History
 
 * [Code of Conduct](https://github.com/nhn/tui.editor/blob/master/CODE_OF_CONDUCT.md)
 * [Contributing Guideline](https://github.com/nhn/tui.editor/blob/master/CONTRIBUTING.md)
@@ -172,7 +172,7 @@ For more information on PR's steps, please see links in the Contributing section
 * [Issue Guidelines](https://github.com/nhn/tui.editor/tree/master/.github/ISSUE_TEMPLATE)
 
 
-## 🍞 TOAST UI Family
+## 🍞 Download Project Files (Schematics and PCB)
 
 - [TOAST UI Calendar](https://github.com/nhn/tui.calendar)
 - [TOAST UI Chart](https://github.com/nhn/tui.chart)
