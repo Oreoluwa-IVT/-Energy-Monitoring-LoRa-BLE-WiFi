@@ -17,24 +17,7 @@
 
 
 ##  Project Description 
-The *energy monitoring* module shown above is an open-source project designed to help enthusiasts monitor energy consumed with the aid of current and voltage sensors. To help address the issue of unclear electric usage and tariffs, you can explore using this unit to wirelessly monitor energy consumption. To ensure easy access to the data acquired by the voltage and current sensors, two wireless communication modules were incorporated onboard. This includes a LoRa_E5 Module to initiate LoRaWAN Communication and a NINA module to provide access to data via WiFi or BLE.*Altium Designer* is the software used for this project.
-
-### TOAST UI Editor's Wrappers
-
-| Name | Description |
-| --- | --- |
-| [`@toast-ui/react-editor`](https://github.com/nhn/tui.editor/tree/master/apps/react-editor) | [React](https://reactjs.org/) wrapper component |
-| [`@toast-ui/vue-editor`](https://github.com/nhn/tui.editor/tree/master/apps/vue-editor) | [Vue](https://vuejs.org/) wrapper component |
-
-### TOAST UI Editor's Plugins
-
-| Name | Description |
-| --- | --- |
-| [`@toast-ui/editor-plugin-chart`](https://github.com/nhn/tui.editor/tree/master/plugins/chart) | Plugin to render chart |
-| [`@toast-ui/editor-plugin-code-syntax-highlight`](https://github.com/nhn/tui.editor/tree/master/plugins/code-syntax-highlight) | Plugin to highlight code syntax |
-| [`@toast-ui/editor-plugin-color-syntax`](https://github.com/nhn/tui.editor/tree/master/plugins/color-syntax) | Plugin to color editing text |
-| [`@toast-ui/editor-plugin-table-merged-cell`](https://github.com/nhn/tui.editor/tree/master/plugins/table-merged-cell) | Plugin to merge table columns |
-| [`@toast-ui/editor-plugin-uml`](https://github.com/nhn/tui.editor/tree/master/plugins/uml) | Plugin to render UML |
+The *energy monitoring* module shown above is an open-source project designed to help enthusiasts monitor energy consumed with the aid of current and voltage sensors. To help address the issue of unclear electric usage and tariffs, you can explore using this unit to wirelessly monitor energy consumption. To ensure easy access to the data acquired by the voltage and current sensors, two wireless communication modules were incorporated onboard. This includes a LoRa_E5 Module to initiate LoRaWAN Communication and a NINA module to provide access to data via WiFi or BLE. *Altium Designer* is the software used for this project.
 
 
 ## 🤖 Schematics?
@@ -87,8 +70,8 @@ You can merge columns of the table header and body area.
 ## 🎨 PCB Design Specifications
 | Name | Description |
 | --- | --- |
-| [`@toast-ui/editor`](https://github.com/nhn/tui.editor/tree/master/apps/editor) | Plain JavaScript component |
-
+| [`@toast-ui/react-editor`](https://github.com/nhn/tui.editor/tree/master/apps/react-editor) | [React](https://reactjs.org/) wrapper component |
+| [`@toast-ui/vue-editor`](https://github.com/nhn/tui.editor/tree/master/apps/vue-editor) | [Vue](https://vuejs.org/) wrapper component |
 
 * [Viewer](https://github.com/nhn/tui.editor/tree/master/docs/en/viewer.md) : Supports a mode to display only markdown data without an editing area.
 * [Internationalization (i18n)](https://github.com/nhn/tui.editor/tree/master/docs/en/i18n.md) : Supports English, Dutch, Korean, Japanese, Chinese, Spanish, German, Russian, French, Ukrainian, Turkish, Finnish, Czech, Arabic, Polish, Galician, Swedish, Italian, Norwegian, Croatian + language and you can extend.
