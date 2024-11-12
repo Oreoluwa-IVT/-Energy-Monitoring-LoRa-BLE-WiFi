@@ -72,12 +72,6 @@ If you wish you print this board for yourself, you can navigate to the folder co
 $ https://oreofeoluwa-ayoola.365.altium.com/designs/1BFC9E72-5E92-4F1D-BF10-B9AC457842F1
 ```
 
-### Pull Request
-
-Before uploading your PR, run test one last time to check if there are any errors. If it has no errors, commit and then push it!
-
-For more information on PR's steps, please see links in the Contributing section.
-
 ## 💬 Version History
 
 * [Code of Conduct](https://github.com/nhn/tui.editor/blob/master/CODE_OF_CONDUCT.md)
