@@ -25,23 +25,14 @@ The *energy monitoring* module shown above is an open-source project designed to
 The schematics are two sheets in total. Sheet 1 contains symbols and connections for highspeed USB-C, Atemga328 MCU, 6-pin headers, RGB module, USB to Serial IC, terminal blocks, and 12V to 5V power converter. Sheet 2 contains symbols for a LoRa_E5 module, a NINA-W102-00B, and a bidirectional 5V to 3V3 level translator.
 
 ### Energy Monitoring Schematic Sheet 1
+This images is compressed. If you struggle with seeing certain details you can download the schematics in the Project files section below. Thanks!!
 <img src="https://github.com/user-attachments/assets/da3b64b4-7132-490b-884f-687870abf510" />
 
-**CommonMark + GFM Specifications**
+### Energy Monitoring Schematic Sheet 2
+This images is compressed. If you struggle with seeing certain details you can download the schematics in the Project files section below. Thanks!!
+<img src="https://github.com/user-attachments/assets/e44891f0-4ea8-47d1-83c9-54377b72260e" />
 
-Today *CommonMark* is the de-facto *Markdown* standard. *GFM (GitHub Flavored Markdown)* is another popular specification based on *CommonMark* - maintained by *GitHub*, which is the *Markdown* mostly used. TOAST UI Editor follows both [*CommonMark*](http://commonmark.org/) and [*GFM*](https://github.github.com/gfm/) specifications. Write documents with ease using productive tools provided by TOAST UI Editor and you can easily open the produced document wherever the specifications are supported.
 
-* **Live Preview** : Edit Markdown while keeping an eye on the rendered HTML. Your edits will be applied immediately.
-* **Scroll Sync** : Synchronous scrolling between Markdown and Preview. You don't need to scroll through each one separately.
-* **Syntax Highlight** : You can check broken Markdown syntax immediately.
-
-### Easy WYSIWYG Mode
-
-![wysiwyg](https://user-images.githubusercontent.com/37766175/121808381-251f5000-cc93-11eb-8c47-4f5a809de2b3.png)
-
-* **Table** : Through the context menu of the table, you can add or delete columns or rows of the table, and you can also arrange text in cells.
-* **Custom Block Editor** : The custom block area can be edited through the internal editor.
-* **Copy and Paste** : Paste anything from browser, screenshot, excel, powerpoint, etc.
 
 ### UI
 * **Toolbar** : Through the toolbar, you can style or add elements to the document you are editing.
