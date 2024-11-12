@@ -36,6 +36,7 @@ This images is compressed. If you struggle with seeing certain details you can d
 | Category | Description |
 | --- | --- |
 | Board Thinkess | 1.612mm |
+| Board Height | 10mm |
 | Dimension | 40mm x 80mm |
 | Number of Layers |  2  |
 | Soldermask | Green |
