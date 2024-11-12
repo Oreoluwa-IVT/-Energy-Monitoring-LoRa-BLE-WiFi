@@ -4,7 +4,7 @@
 
 ## 🚩 Table of Contents
 
-- [Product Description](#-product-description)
+- [Project Description](#-project-description)
 - [Schematics](#-schematics)
 - [PCB Design Specifications](#-pcb-design-specifications)
 - [Board Presentation](#-board-presentation)
@@ -16,8 +16,8 @@
 - [License](#-license)
 
 
-##  Product Description 
-Today *CommonMark* is the de-facto *Markdown* standard. *GFM (GitHub Flavored Markdown)* is another popular specification based on *CommonMark* - maintained by *GitHub*, which is the *Markdown* mostly used. TOAST UI Editor follows both [*CommonMark*](http://commonmark.org/) and [*GFM*](https://github.github.com/gfm/) specifications. Write documents with ease using productive tools provided by TOAST UI Editor and you can easily open the produced document wherever the specifications are supported.
+##  Project Description 
+The *energy monitoring* module shown above is an open-source project designed to help enthusiasts monitor energy consumed with the aid of current and voltage sensors. To help address the issue of unclear electric usage and tariffs, you can try exploring using this unit to wirelessly monitor how much energy you are consuming. To ensure easy access to the data acquired by the voltage and current sensors, two wireless communication modules were incoperated onboard. This includes a LoRa_E5 Module to initiate LoRaWAN Communication and a NINA module to provide access to data via WiFi or BLE.*Altium Designer* is the software used for this project. Find out more about [*Altium Designer*](http://commonmark.org/) using the link.
 
 ### TOAST UI Editor's Wrappers
 
