@@ -93,4 +93,4 @@ $ https://oreofeoluwa-ayoola.365.altium.com/designs/1BFC9E72-5E92-4F1D-BF10-B9AC
 - [Gerber Files](https://github.com/Oreoluwa-IVT/-Energy-Monitoring-LoRaWAN-BLE-WiFi/blob/main/GerberX2.zip)
 
 ## 📜 License
-This software is licensed under the [MIT](https://github.com/nhn/tui.editor/blob/master/LICENSE) © [NHN Cloud](https://github.com/nhn).
+This software is licensed under the [MIT](https://github.com/nhn/tui.editor/blob/master/LICENSE) 
