@@ -88,7 +88,7 @@ $ https://oreofeoluwa-ayoola.365.altium.com/designs/1BFC9E72-5E92-4F1D-BF10-B9AC
 ## 💬 Version History
 ## 🍞 Download Project Files
 
-- [Schematics](https://github.com/nhn/tui.calendar)
+- [Schematics](https://github.com/Oreoluwa-IVT/-Energy-Monitoring-LoRaWAN-BLE-WiFi/blob/main/Energy_Monitoring.pdf)
 - [PCB Files](https://github.com/Oreoluwa-IVT/-Energy-Monitoring-LoRaWAN-BLE-WiFi/blob/main/Altium%20PCB%20File.zip)
 - [Gerber Files](https://github.com/Oreoluwa-IVT/-Energy-Monitoring-LoRaWAN-BLE-WiFi/blob/main/GerberX2.zip)
 
