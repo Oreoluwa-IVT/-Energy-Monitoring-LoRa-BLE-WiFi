@@ -35,19 +35,17 @@ This images is compressed. If you struggle with seeing certain details you can d
 | Category | Description |
 | --- | --- |
 | Board Thinkess | 1.612mm |
-| Board Height | 10mm |
-| Dimension | 40mm x 80mm |
-| Number of Layers |  2  |
+| Dimension | 43.365mm x 101.219mm |
+| Number of Layers |  4  |
 | Soldermask | Green |
 | Silkscreen | White |
-| mounting Holes | 4 |
-| Edge Fillet Radius | 2mm |
+| Mounting Holes | 4 |
+| Edge Fillet size | 2mm |
 | Impedance Profile (Antenna) | 50Ω |
 | Impedance Profile (USB) | 90Ω |
-| Minimum Trace Width  | 0.2mm|
-| Maximum Trace Width | 0.2mm |
-| Minimum Hole Size  | 0.2mm|
-| Maximum Hole Size | 0.2mm |
+| Via count | 136 |
+| Minimum Hole Size  | 0.16mm|
+| No of Components| 86 |
 
 ## 🐾 Board Presentation 
 Below is the board in different views. To see areas of the board not shown below , please visit the Altium 365 project link. 
