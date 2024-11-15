@@ -34,7 +34,7 @@ This images is compressed. If you struggle with seeing certain details you can d
 ## 🎨 PCB Design Properties and Specifications
 | Category | Description |
 | --- | --- |
-| Board Thinkess | 1.612mm |
+| Board Thickess | 1.612mm |
 | Dimension | 43.365mm x 101.219mm |
 | Number of Layers |  4  |
 | Soldermask | Green |
