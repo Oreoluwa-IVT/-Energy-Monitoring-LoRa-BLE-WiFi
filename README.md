@@ -1,5 +1,5 @@
 # Energy Monitoring with LoRaWAN
-> The first iteration of a small, efficient, powerful monitoring package.
+> The first iteration of a small, IoT-enabled monitoring module.
 <img src="https://github.com/user-attachments/assets/55031c5b-47f4-44da-be43-cbea9d6fc508" />
 
 ## 🚩 Table of Contents
