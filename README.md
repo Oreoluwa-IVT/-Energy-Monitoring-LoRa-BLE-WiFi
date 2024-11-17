@@ -24,11 +24,11 @@ The *energy monitoring* module shown above is an open-source project designed to
 The schematics are two sheets in total. Sheet 1 contains symbols and connections for highspeed USB-C, Atmega328 MCU, 6-pin headers, RGB module, USB to Serial IC, terminal blocks, and 12V to 5V power converter. Sheet 2 contains symbols for a LoRa_E5 module, a NINA-W102-00B, and a bidirectional 5V to 3V3 level translator.
 
 ### Energy Monitoring Schematic Sheet 1
-This images is compressed. If you struggle with seeing certain details you can download the schematics in the Project files section below. Thanks!!
+This image is compressed. If you struggle to see certain details, you can download the schematics in the Project files section below. Thanks!!
 <img src="https://github.com/user-attachments/assets/da3b64b4-7132-490b-884f-687870abf510" />
 
 ### Energy Monitoring Schematic Sheet 2
-This images is compressed. If you struggle with seeing certain details you can download the schematics in the Project files section below. Thanks!!
+This image is compressed. If you struggle to see certain details, you can download the schematics in the Project files section below. Thanks!!
 <img src="https://github.com/user-attachments/assets/e44891f0-4ea8-47d1-83c9-54377b72260e" />
 
 ## 🎨 PCB Design Properties and Specifications
@@ -48,7 +48,7 @@ This images is compressed. If you struggle with seeing certain details you can d
 | No of Components| 86 |
 
 ## 🐾 Board Presentation 
-Below is the board in different views. To see areas of the board not shown below , please visit the Altium 365 project link. 
+The board is shown below in different views. To see areas of the board not shown below, please visit the Altium 365 project link. 
 <img src="https://github.com/user-attachments/assets/7185e227-41d2-4916-9e0d-90ed663ac18a" />
 
 
@@ -91,4 +91,4 @@ Below is the board in different views. To see areas of the board not shown below
 - [Gerber Files](https://github.com/Oreoluwa-IVT/-Energy-Monitoring-LoRaWAN-BLE-WiFi/blob/main/GerberX2.zip)
 
 ## 📜 License
-This software is licensed under the [MIT](https://github.com/nhn/tui.editor/blob/master/LICENSE) 
+This software is licensed under [MIT](https://github.com/nhn/tui.editor/blob/master/LICENSE) 
